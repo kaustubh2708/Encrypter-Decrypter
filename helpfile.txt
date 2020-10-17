@@ -1,0 +1,62 @@
+||||| HOW TO WORK IN ENCRYPTION-DECRYPTION WINDOW |||||
+
+(NOTE: To scroll in this listbox just click on any line
+        and navigate using up and down arrow keys.)
+
+
+(A) ENCRYPTION :
+
+1. If you want to create a new text file then you have to
+   enter(in the first box) ONLY the name of the file and 
+   click on "Open",it will automatically create a .txt 
+   file and it will open it up in front of you.
+
+2. After saving the file you may want to encrypt the file.
+   To do so you have to press the "Encrypt" button.
+
+3. The encrypted file's contents will be displayed on the
+   listbox that will appear on the left hand side of the
+   screen.
+
+4. If you already have a saved file then you need to enter 
+   the path of the file ONLY in the second entry box. The
+   button "..." gives the list of the files currently saved
+   in the folder for your reference. You can copy-paste the 
+   path into the entry box for convenience.
+
+5. If you click on the "Edit" button the text file will
+   show up and you can change anything if you want.
+
+6. To encrypt the file WHOSE PATH IS SPECIFIED IN THE SECOND
+   ENTRY BOX you have to click on the "ENCRYPT FILE" button.
+   The encrypted file's contents will show up on the listbox.
+
+
+(B) DECRYPTION :
+
+1. If you want to create a new text file then you have to
+   enter(in the first box) ONLY the name of the file and 
+   click on "Open",it will automatically create a .txt 
+   file and it will open it up in front of you.
+
+2. You can copy contents into the file from the listbox if
+   there is any encrypted text on it.
+   After saving the file you may want to encrypt the file.
+   To do so you have to press the "Decrypt" button.
+
+3. The decrypted file's contents will be displayed on the
+   listbox that will appear on the left hand side of the
+   screen.
+
+4. If you already have a saved file then you need to enter 
+   the path of the file ONLY in the second entry box. The
+   button "..." gives the list of the files currently saved
+   in the folder for your reference. You can copy-paste the 
+   path into the entry box for convenience.
+
+5. If you click on the "Edit" button the text file will
+   show up and you can change anything if you want.
+
+6. To decrypt the file WHOSE PATH IS SPECIFIED IN THE SECOND
+   ENTRY BOX you have to click on the "DECRYPT FILE" button.
+   The decrypted file's contents will show up on the listbox.

@@ -1,0 +1,3 @@
+Enter the file name to 'Open existing file' from below and open:
+C:\ED\EncryptedFiles\helpfile_e.txt
+C:\ED\EncryptedFiles\why_e.txt

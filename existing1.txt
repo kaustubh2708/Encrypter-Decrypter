@@ -1,0 +1,5 @@
+Enter the file name to 'Open existing file' from below and open:
+C:\ED\Newfiles\helpfile.txt
+C:\ED\DecryptedFiles\helpfil_d.txt
+C:\ED\Newfiles\why.txt
+C:\ED\DecryptedFiles\why_d.txt
