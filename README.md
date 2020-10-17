@@ -9,12 +9,12 @@ Please follow these steps if you want to try out this application.
 
 3. SAVE ‘kcas.py’ INSIDE ‘ED’ FOLDER
 
-4. IN THE SAME ‘ED’ FOLDER MAKE THE FOLLOWING SUBFOLDERS
-	
-	EncryptedFiles
-	DecryptedFiles
-	Newfiles
-	Newfiles2
+4. IN THE SAME ‘ED’ FOLDER MAKE THE FOLLOWING SUBFOLDERS:
+
+	EncryptedFiles,
+	DecryptedFiles,
+	Newfiles,
+	Newfiles2,
 
 5.THESE ARE THE ESSENTIAL FILES THAT NEED TO BE STORED UNDER ‘ED’ FOLDER
 	
